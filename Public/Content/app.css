@@ -1,0 +1,157 @@
+.input-group-addon:first-child
+{
+    border-right: 0;
+}
+
+.input-group-addon
+{
+    padding: 6px 12px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1;
+    text-align: center;
+    border: 1px solid darkgrey;
+    border-radius: 4xpx; 
+}
+
+.input-group-addon .fa
+{
+    font-size: 18px;
+}
+
+.input-group .form-control
+{
+    position:relative;
+    z-index: 2;
+    float:left;
+    margin-bottom: 0;
+}
+
+.input-group .form-control:last-child
+{
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+.login
+{
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    background-color: lightgrey;
+    border-radius: .3rem;
+}
+
+.login input
+{
+    background-color: white;
+    border-color: darkgrey;
+    border-radius: .4em;
+    width: 100%;
+}
+
+.nav-color
+{
+    background-color: deepskyblue;
+}
+
+.newfont
+{
+    font-family: fantasy;
+    font-size: xx-large;
+    font-style: italic;
+    font-weight: 800;
+}
+
+.newfont2
+{
+    font-family: fantasy;
+    font-size: x-large;
+    font-style: oblique;
+    text-align: center;
+}
+
+
+.img2
+{
+    margin-left: 500px;
+}
+.img3
+{
+    margin-left: 400px;
+}
+
+.line1
+{
+    margin-bottom: 50px;
+    margin-left: 400px;
+}
+
+.line2
+{
+    margin-left: 450px;
+}
+
+.proj-title
+{
+    margin-left: 250px;
+}
+
+.proj-desc
+{
+    margin-left: 300px;
+}
+
+.proj-desc1
+{
+    margin-left: 400px;
+}
+
+.row{
+    display: flex;
+}
+
+.column{
+    flex: 10%;
+    padding: 10px;
+}
+.paragraph
+{
+    font-family: "Lucida Console";
+}
+
+.contact
+{
+   font-family: "Lucida Console";
+   font-style: italic;
+}
+
+.email
+{
+   font-family: "Lucida Console";
+   font-style: italic;
+}
+    
+.displayhome
+{
+    font-family: fantasy;
+    font-size: xx-large;
+    font-style: oblique;
+    text-align: center;
+}
+
+.body
+{
+    background-image: url('/Public/Images/code-php-programming-wallpaper-thumb.jpg');
+}
+
+.newfont3
+{
+    font-family: fantasy;
+    font-style: oblique;
+    text-align: center;
+}
+
+.aboutButton
+{
+    margin-left: 400px;
+}
