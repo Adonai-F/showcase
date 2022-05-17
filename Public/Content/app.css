@@ -77,7 +77,8 @@
 }
 .img3
 {
-    margin-left: 400px;
+    margin-left: 350px;
+    height: 400px;
 }
 
 .line1
@@ -154,4 +155,9 @@
 .aboutButton
 {
     margin-left: 400px;
+}
+
+.foot
+{
+    margin-bottom: 50px;
 }
